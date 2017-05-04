@@ -1,0 +1,4 @@
+def quadrado (a):
+    a = a*a
+    return a
+print quadrado (8)
